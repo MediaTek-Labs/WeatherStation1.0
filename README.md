@@ -1,5 +1,5 @@
 # WeatherStation1.0
-Weather Station Arduino sketch is based on LinkIt ONE development board. 
+Weather Station Arduino sketch is based on the LinkIt ONE development board. 
 Supporting libraries are: 
   1. Adafruit_BMP085_Unified - https://github.com/adafruit/Adafruit_BMP085_Unified
   2. Adafruit_Sensor - https://github.com/adafruit/Adafruit_Sensor
